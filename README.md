@@ -1,4 +1,5 @@
 Resume
 ======
 
-Professional Resume written in LaTeX
+- Professional Resume written in LaTeX
+- Use of PdfLaTeX
