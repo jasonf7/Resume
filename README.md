@@ -1,6 +1,6 @@
-Resume
+Cover Letter & Resume
 ======
-- Professional Resume written in LaTeX
+- Professional resume and cover letter template written in LaTeX
 - Used the Texmaker Program
 
 
