@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.8.14)  20 JAN 2014 15:45
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.8.14)  23 JAN 2014 22:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -9,8 +9,8 @@ Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
 aded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -183,12 +183,12 @@ LaTeX Font Info:    ... okay on input line 23.
 * \topmargin=-37.0pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=11.0pt
+* \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=59.0pt
-* \marginparsep=10.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -338,257 +338,154 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
-
- []
-
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 47.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 47.
 
-Underfull \hbox (badness 1881) in paragraph at lines 50--51
-[]\T1/cmr/m/n/10.95 One year ex-pe-ri-ence de-sign-ing and de-vel-op-ing for th
-e web us-ing
+Underfull \hbox (badness 4505) in paragraph at lines 48--49
+[]\T1/cmr/m/n/10 One year of ag-ile web app de-vel-op-ment for pub-lic school c
+lients us-ing
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 55.
+(Font)              <7> on input line 52.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 55.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 55.
+(Font)              <5> on input line 52.
 
-Overfull \hbox (2.4216pt too wide) in paragraph at lines 38--82
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 38--92
 [][] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Overfull \hbox (4.30084pt too wide) in paragraph at lines 99--100
+\T1/cmr/bx/sc/10 Achievements 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
-
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+\T1/cmr/bx/sc/10 Activities
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
-
- []
-
-
-Overfull \hbox (2.4216pt too wide) in paragraph at lines 83--135
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 93--134
 [][] [] 
  []
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[2] (./resume.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./resume.aux) ) 
 Here is how much of TeX's memory you used:
- 1766 strings out of 495059
- 23553 string characters out of 3182030
- 91546 words of memory out of 3000000
- 4971 multiletter control sequences out of 15000+200000
- 11632 words of font info for 30 fonts, out of 3000000 for 9000
+ 1750 strings out of 495059
+ 23358 string characters out of 3182030
+ 88529 words of memory out of 3000000
+ 4961 multiletter control sequences out of 15000+200000
+ 8882 words of font info for 21 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 24i,10n,43p,270b,229s stack positions out of 5000i,500n,10000p,200000b,50000s
- </home/jason/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx10
-95.600pk> </home/jason/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbi1095.600pk> <
-/home/jason/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </home/jason
-/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecxc1095.600pk> </home/jason/.texmf-var
-/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk> </home/jason/.texmf-var/fonts/pk/l
-jfour/jknappen/ec/ecbx2488.600pk></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (2 pages, 64121 bytes).
+ 24i,10n,43p,171b,229s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </hom
+e/jason/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/jason/.te
+xmf-var/fonts/pk/ljfour/jknappen/ec/ecbi1000.600pk> </home/jason/.texmf-var/fon
+ts/pk/ljfour/jknappen/ec/ecrm0700.600pk> </home/jason/.texmf-var/fonts/pk/ljfou
+r/jknappen/ec/ecxc1000.600pk> </home/jason/.texmf-var/fonts/pk/ljfour/jknappen/
+ec/ecrm1000.600pk> </home/jason/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728
+.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+>
+Output written on resume.pdf (2 pages, 62245 bytes).
 PDF statistics:
- 206 PDF objects out of 1000 (max. 8388607)
+ 209 PDF objects out of 1000 (max. 8388607)
  33 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
