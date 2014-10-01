@@ -1,12 +1,11 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.8.14)  27 JAN 2014 17:52
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.9.4)  29 SEP 2014 22:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **resume.tex
 (./resume.tex
 LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
-aded.
+Babel <3.9h> and hyphenation patterns for 4 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
@@ -172,15 +171,15 @@ LaTeX Font Info:    ... okay on input line 23.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* h-part:(L,W,R)=(54.2025pt, 505.89pt, 54.2025pt)
+* v-part:(T,H,B)=(54.2025pt, 686.56499pt, 54.2025pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=469.75502pt
-* \textheight=650.43001pt
-* \oddsidemargin=0.0pt
-* \evensidemargin=0.0pt
-* \topmargin=-37.0pt
+* \textwidth=505.89pt
+* \textheight=686.56499pt
+* \oddsidemargin=-18.06749pt
+* \evensidemargin=-18.06749pt
+* \topmargin=-55.06749pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -199,17 +198,17 @@ LaTeX Font Info:    ... okay on input line 23.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Overfull \hbox (5.24498pt too wide) in paragraph at lines 33--36
-[][]
+Overfull \hbox (4.11pt too wide) in paragraph at lines 33--36
+[][] 
  []
 
 
-Overfull \hbox (5.10945pt too wide) in paragraph at lines 33--36
+Overfull \hbox (5.10947pt too wide) in paragraph at lines 33--36
 \T1/cmr/m/n/10 (519)501-6528   www.linkedin.com/in/jzfang 
  []
 
 
-Overfull \hbox (4.70634pt too wide) in paragraph at lines 33--36
+Overfull \hbox (4.70636pt too wide) in paragraph at lines 33--36
 \T1/cmr/m/n/10 jason.fang.1@uwaterloo.ca  https://github.com/jasonf7 
  []
 
@@ -395,7 +394,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 44--45
-\T1/cmr/bx/sc/10 Relevant
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
  []
 
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 48.
@@ -404,12 +433,13 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 48.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 52.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 52.
 
-Overfull \hbox (2.22166pt too wide) in paragraph at lines 37--100
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 37--112
 [][] [] 
  []
 
@@ -417,24 +447,26 @@ Overfull \hbox (2.22166pt too wide) in paragraph at lines 37--100
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./resume.aux) ) 
 Here is how much of TeX's memory you used:
- 1750 strings out of 495059
- 23356 string characters out of 3182030
- 86529 words of memory out of 3000000
- 4961 multiletter control sequences out of 15000+200000
- 8880 words of font info for 21 fonts, out of 3000000 for 9000
- 14 hyphenation exceptions out of 8191
- 24i,5n,43p,223b,227s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 1751 strings out of 494985
+ 23359 string characters out of 6180357
+ 88615 words of memory out of 5000000
+ 4995 multiletter control sequences out of 15000+600000
+ 9655 words of font info for 22 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 24i,4n,43p,196b,233s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/ja
-son/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/jason/.texmf-
-var/fonts/pk/ljfour/jknappen/ec/ecbi1000.600pk> </home/jason/.texmf-var/fonts/p
-k/ljfour/jknappen/ec/ecrm0700.600pk> </home/jason/.texmf-var/fonts/pk/ljfour/jk
-nappen/ec/ecxc1000.600pk> </home/jason/.texmf-var/fonts/pk/ljfour/jknappen/ec/e
-crm1000.600pk> </home/jason/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600
-pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (1 page, 58817 bytes).
+sonf7/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900.600pk> </home/jasonf7/.te
+xmf-var/fonts/pk/ljfour/jknappen/ec/ecbx0900.600pk> </home/jasonf7/.texmf-var/f
+onts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/jasonf7/.texmf-var/fonts/pk/l
+jfour/jknappen/ec/ecbi1000.600pk> </home/jasonf7/.texmf-var/fonts/pk/ljfour/jkn
+appen/ec/ecxc1000.600pk> </home/jasonf7/.texmf-var/fonts/pk/ljfour/jknappen/ec/
+ecrm1000.600pk> </home/jasonf7/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.
+600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+
+Output written on resume.pdf (1 page, 72917 bytes).
 PDF statistics:
- 199 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
+ 254 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
